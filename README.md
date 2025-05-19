@@ -110,7 +110,11 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 
 El proyecto **EcoQuant** está diseñado para ser un modelo piloto escalable que, tras su validación en ecosistemas estratégicos de Cundinamarca, pueda replicarse y adaptarse a otras regiones vulnerables de Colombia. La escalabilidad se fundamenta en el uso de tecnologías modulares y plataformas IoT de bajo consumo energético, que permiten integrar nuevos sensores cuánticos de forma flexible y expandir la red sin incrementar significativamente los costos operativos.
 
+
 En el contexto ambiental, esta escalabilidad es crucial para ampliar la cobertura de monitoreo en páramos, humedales y cuencas hidrográficas que son vitales para la biodiversidad y la regulación hídrica nacional. La capacidad de detectar microcontaminantes y cambios hidrológicos con alta precisión facilitará la gestión preventiva, la conservación de estos ecosistemas y la mitigación de impactos negativos.
+
+![image](https://github.com/user-attachments/assets/a89a9b03-6854-42be-a08a-305ce4a82dd9)
+_Soluciones LoRa para agricultura inteligente. Fuente: Catsensors_
 
 Desde la perspectiva agrícola, EcoQuant contribuirá a la sostenibilidad de la producción agropecuaria en Cundinamarca y zonas agrícolas aledañas, donde el uso de fertilizantes y pesticidas puede afectar la calidad del agua y del suelo. La detección temprana y el monitoreo continuo permitirán optimizar prácticas agrícolas, promoviendo un manejo más responsable de recursos y reduciendo la contaminación difusa que afecta los cuerpos hídricos.
 
