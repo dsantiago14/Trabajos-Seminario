@@ -106,8 +106,3 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 
 ---
 
-## Conclusión
-
-**EcoQuant** representa una apuesta por el uso de tecnologías de frontera para enfrentar uno de los desafíos más urgentes del país: la protección del agua y los ecosistemas que la producen. Esta propuesta no solo contribuye a la preservación ambiental, sino que posiciona a Colombia como líder regional en la adopción de sensores cuánticos para el desarrollo sostenible.
-
----
