@@ -4,6 +4,9 @@
 
 La crisis ambiental global y las presiones locales sobre los recursos naturales demandan nuevas soluciones tecnológicas que superen las limitaciones de los métodos convencionales de monitoreo. En Colombia, ecosistemas estratégicos como los **páramos, nacimientos de agua, humedales y cuencas hidrográficas** están sometidos a presiones como la minería ilegal, la deforestación, la expansión agrícola y el cambio climático.
 
+![image](https://github.com/user-attachments/assets/1990240f-07ae-4437-b0c2-0e42985b8c58)
+
+
 **EcoQuant** es una propuesta de desarrollo e implementación de una **red de sensores cuánticos ambientales** para monitorear con alta sensibilidad y resolución variables críticas como el caudal de agua, la presión, la temperatura, y la presencia de contaminantes o cambios químicos sutiles en cuerpos de agua y suelos vulnerables.
 
 ---
@@ -99,6 +102,7 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 3. **Despliegue y pruebas de campo** 
    - Instalación en al menos 2 ecosistemas piloto.
    - Validación frente a sensores tradicionales.
+  
 
 4. **Análisis y difusión**
    - Comparación de resultados.
@@ -106,3 +110,13 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 
 ---
 
+## Referencias
+
+1. Degen, C. L., Reinhard, F., & Cappellaro, P. (2017). Quantum sensing. Reviews of Modern Physics, 89(3), 035002. https://doi.org/10.1103/RevModPhys.89.035002
+   
+2. IDEAM. (2022). Informe del estado del recurso hídrico en Colombia. Instituto de Hidrología, Meteorología y Estudios Ambientales. https://www.ideam.gov.co/sala-de-prensa/informes/publicacion-jue-23032023-1200.
+   
+3. Ibtisam Abbasi. (2023). Real-Time Environmental Monitoring With Quantum Sensors. AZO Quantum. https://www.azoquantum.com/Article.aspx?ArticleID=444.
+   
+4. GEF Colombia. (2023). Conservación y uso sostenible de páramos colombianos. Fondo Mundial para el Medio Ambiente – GEF.
+https://www.thegef.org/projects.
