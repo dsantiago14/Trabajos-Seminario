@@ -1,4 +1,4 @@
-# Proyecto: EcoQuant – Monitoreo Ambiental de Alta Precisión con Sensores Cuánticos en Ecosistemas Estratégicos Colombianos
+# EcoQuant – Monitoreo Ambiental de Alta Precisión con Sensores Cuánticos en Ecosistemas Estratégicos Colombianos
 
 ## Introducción
 
