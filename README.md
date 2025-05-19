@@ -5,7 +5,7 @@
 La crisis ambiental global y las presiones locales sobre los recursos naturales demandan nuevas soluciones tecnológicas que superen las limitaciones de los métodos convencionales de monitoreo. En Colombia, ecosistemas estratégicos como los **páramos, nacimientos de agua, humedales y cuencas hidrográficas** están sometidos a presiones como la minería ilegal, la deforestación, la expansión agrícola y el cambio climático.
 
 ![image](https://github.com/user-attachments/assets/1990240f-07ae-4437-b0c2-0e42985b8c58)
-
+_Sistemas de abastecimiento, potabilización y saneamiento del agua en la Sabana de Bogotá. Fuente: Empresa de Acueducto y Alcantarillado de Bogotá_
 
 **EcoQuant** es una propuesta de desarrollo e implementación de una **red de sensores cuánticos ambientales** para monitorear con alta sensibilidad y resolución variables críticas como el caudal de agua, la presión, la temperatura, y la presencia de contaminantes o cambios químicos sutiles en cuerpos de agua y suelos vulnerables.
 
@@ -47,14 +47,11 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 
 ## Casos de Uso Iniciales
 
-1. **Páramo de Sumapaz**  
-   Monitoreo del comportamiento del agua subterránea, cambios de caudal y temperatura en nacimientos, detección temprana de metales pesados o fertilizantes que lleguen desde zonas agrícolas adyacentes.
+1. **Páramo de Sumapaz (Cundinamarca)**  
+   Monitoreo del comportamiento del agua subterránea, cambios de caudal y temperatura en nacimientos, detección temprana de metales pesados o fertilizantes provenientes de actividades agrícolas adyacentes. Este ecosistema es crucial para la recarga hídrica de la Sabana de Bogotá.
 
-2. **Río Atrato**  
-   Detección de contaminación por mercurio en comunidades afectadas por minería ilegal. Medición de concentraciones críticas con sensores NV que reaccionan a cambios químicos en tiempo real.
-
-3. **Zona periurbana de Bogotá**  
-   Integración con red de monitoreo ambiental para medir contaminación difusa, cambios de microtemperatura en lagunas urbanas y trazabilidad de calidad del agua para consumo humano.
+2. **Zona periurbana de Bogotá y alrededores**  
+   Integración con la red de monitoreo ambiental para medir contaminación difusa, variaciones microclimáticas y trazabilidad de la calidad del agua en cuerpos hídricos urbanos y periurbanos. Detección oportuna de contaminantes para mejorar la gestión del recurso hídrico en la región.
 
 ---
 
@@ -91,22 +88,33 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 
 ## Fases del Proyecto
 
-1. **Simulación y diseño** 
-   - Modelado de los sensores.
+1. **Simulación y diseño**  
+   - Modelado de los sensores.  
    - Diseño de la red piloto y selección de sitios.
 
-2. **Prototipado** 
-   - Fabricación o adquisición de sensores cuánticos.
+2. **Prototipado**  
+   - Fabricación o adquisición de sensores cuánticos.  
    - Integración con microcontroladores y plataformas IoT (Ej: ESP32, LoRa, Sigfox).
 
-3. **Despliegue y pruebas de campo** 
-   - Instalación en al menos 2 ecosistemas piloto.
+3. **Despliegue y pruebas de campo**  
+   - Instalación en al menos 2 ecosistemas piloto.  
    - Validación frente a sensores tradicionales.
-  
 
-4. **Análisis y difusión**
-   - Comparación de resultados.
+4. **Análisis y difusión**  
+   - Comparación de resultados.  
    - Publicación y propuestas de escalamiento.
+
+---
+
+## Escalabilidad y Sostenibilidad
+
+El proyecto **EcoQuant** está diseñado para ser un modelo piloto escalable que, tras su validación en ecosistemas estratégicos de Cundinamarca, pueda replicarse y adaptarse a otras regiones vulnerables de Colombia. La escalabilidad se fundamenta en el uso de tecnologías modulares y plataformas IoT de bajo consumo energético, que permiten integrar nuevos sensores cuánticos de forma flexible y expandir la red sin incrementar significativamente los costos operativos.
+
+En el contexto ambiental, esta escalabilidad es crucial para ampliar la cobertura de monitoreo en páramos, humedales y cuencas hidrográficas que son vitales para la biodiversidad y la regulación hídrica nacional. La capacidad de detectar microcontaminantes y cambios hidrológicos con alta precisión facilitará la gestión preventiva, la conservación de estos ecosistemas y la mitigación de impactos negativos.
+
+Desde la perspectiva agrícola, EcoQuant contribuirá a la sostenibilidad de la producción agropecuaria en Cundinamarca y zonas agrícolas aledañas, donde el uso de fertilizantes y pesticidas puede afectar la calidad del agua y del suelo. La detección temprana y el monitoreo continuo permitirán optimizar prácticas agrícolas, promoviendo un manejo más responsable de recursos y reduciendo la contaminación difusa que afecta los cuerpos hídricos.
+
+Para garantizar la sostenibilidad a largo plazo, se contempla la capacitación de comunidades locales y actores agroambientales en el uso y mantenimiento de la red de sensores, fortaleciendo capacidades técnicas regionales. Además, el proyecto impulsará alianzas con entidades gubernamentales y organizaciones ambientales para asegurar recursos y soporte técnico continuo. Este enfoque colaborativo y comunitario busca que EcoQuant no solo sea una herramienta tecnológica, sino un agente activo en la conservación ambiental y el desarrollo rural sostenible en Colombia.
 
 ---
 
@@ -118,5 +126,4 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
    
 3. Ibtisam Abbasi. (2023). Real-Time Environmental Monitoring With Quantum Sensors. AZO Quantum. https://www.azoquantum.com/Article.aspx?ArticleID=444.
    
-4. GEF Colombia. (2023). Conservación y uso sostenible de páramos colombianos. Fondo Mundial para el Medio Ambiente – GEF.
-https://www.thegef.org/projects.
+4. GEF Colombia. (2023). Conservación y uso sostenible de páramos colombianos. Fondo Mundial para el Medio Ambiente – GEF. https://www.thegef.org/projects.
