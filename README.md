@@ -5,6 +5,7 @@
 La crisis ambiental global y las presiones locales sobre los recursos naturales demandan nuevas soluciones tecnológicas que superen las limitaciones de los métodos convencionales de monitoreo. En Colombia, ecosistemas estratégicos como los **páramos, nacimientos de agua, humedales y cuencas hidrográficas** están sometidos a presiones como la minería ilegal, la deforestación, la expansión agrícola y el cambio climático.
 
 ![image](https://github.com/user-attachments/assets/1990240f-07ae-4437-b0c2-0e42985b8c58)
+
 _Sistemas de abastecimiento, potabilización y saneamiento del agua en la Sabana de Bogotá. Fuente: Empresa de Acueducto y Alcantarillado de Bogotá_
 
 **EcoQuant** es una propuesta de desarrollo e implementación de una **red de sensores cuánticos ambientales** para monitorear con alta sensibilidad y resolución variables críticas como el caudal de agua, la presión, la temperatura, y la presencia de contaminantes o cambios químicos sutiles en cuerpos de agua y suelos vulnerables.
@@ -114,6 +115,7 @@ El proyecto **EcoQuant** está diseñado para ser un modelo piloto escalable que
 En el contexto ambiental, esta escalabilidad es crucial para ampliar la cobertura de monitoreo en páramos, humedales y cuencas hidrográficas que son vitales para la biodiversidad y la regulación hídrica nacional. La capacidad de detectar microcontaminantes y cambios hidrológicos con alta precisión facilitará la gestión preventiva, la conservación de estos ecosistemas y la mitigación de impactos negativos.
 
 ![image](https://github.com/user-attachments/assets/a89a9b03-6854-42be-a08a-305ce4a82dd9)
+
 _Soluciones LoRa para agricultura inteligente. Fuente: Catsensors_
 
 Desde la perspectiva agrícola, EcoQuant contribuirá a la sostenibilidad de la producción agropecuaria en Cundinamarca y zonas agrícolas aledañas, donde el uso de fertilizantes y pesticidas puede afectar la calidad del agua y del suelo. La detección temprana y el monitoreo continuo permitirán optimizar prácticas agrícolas, promoviendo un manejo más responsable de recursos y reduciendo la contaminación difusa que afecta los cuerpos hídricos.
