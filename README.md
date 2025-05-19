@@ -62,7 +62,7 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 | Precisión | Baja a media | Ultra alta |
 | Detección temprana | Limitada | Alta |
 | Trazabilidad | No garantizada | Cuánticamente verificable |
-| Resistencia ambiental | Regular | Alta (si se encapsulan bien) |
+| Resistencia ambiental | Regular | Alta |
 | Integración a redes | Parcial | Diseñado para IoT ambiental con sincronía precisa |
 
 ---
@@ -92,7 +92,7 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
    - Modelado de los sensores.
    - Diseño de la red piloto y selección de sitios.
 
-2. **Prototipado** (6-12 meses)  
+2. **Prototipado** (10-24 meses)  
    - Fabricación o adquisición de sensores cuánticos.
    - Integración con microcontroladores y plataformas IoT (Ej: ESP32, LoRa, Sigfox).
 
@@ -111,9 +111,3 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 **EcoQuant** representa una apuesta por el uso de tecnologías de frontera para enfrentar uno de los desafíos más urgentes del país: la protección del agua y los ecosistemas que la producen. Esta propuesta no solo contribuye a la preservación ambiental, sino que posiciona a Colombia como líder regional en la adopción de sensores cuánticos para el desarrollo sostenible.
 
 ---
-
-## Autor
-Estudiante de Ingeniería Electrónica  
-Línea: Sensores Cuánticos para Medioambiente  
-Fecha: 2025
-
