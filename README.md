@@ -88,19 +88,19 @@ Los sensores cuánticos aprovechan principios como la **superposición, el entre
 
 ## Fases del Proyecto
 
-1. **Simulación y diseño** (6 meses)  
+1. **Simulación y diseño** 
    - Modelado de los sensores.
    - Diseño de la red piloto y selección de sitios.
 
-2. **Prototipado** (10-24 meses)  
+2. **Prototipado** 
    - Fabricación o adquisición de sensores cuánticos.
    - Integración con microcontroladores y plataformas IoT (Ej: ESP32, LoRa, Sigfox).
 
-3. **Despliegue y pruebas de campo** (12 meses)  
+3. **Despliegue y pruebas de campo** 
    - Instalación en al menos 2 ecosistemas piloto.
    - Validación frente a sensores tradicionales.
 
-4. **Análisis y difusión** (6 meses)  
+4. **Análisis y difusión**
    - Comparación de resultados.
    - Publicación y propuestas de escalamiento.
 
